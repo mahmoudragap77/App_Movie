@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation2"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.moviesapp.ui.home.ui.HomeFragment"
+        android:label="HomeFragment"
+        tools:layout="@layout/home_fragment">
+        <action
+            android:id="@+id/action_homeFragment_to_detailsOfMovie"
+            app:destination="@id/detailsOfMovie"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:launchSingleTop="false"
+            app:popUpTo="@id/navigation2"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailsOfMovie"
+        android:name="com.example.moviesapp.ui.movie_details.DetailsOfMovie"
+        android:label="DetailsOfMovie" >
+        <argument
+            android:name="movieD"
+            app:argType="com.example.moviesapp.model.Result" />
+    </fragment>
+    <fragment
+        android:id="@+id/actorsFragment"
+        android:name="com.example.moviesapp.ui.actors.ui.ActorsFragment"
+        android:label="ActorsFragment" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.moviesapp.ui.profile.ProfileFragment"
+        android:label="ProfileFragment" />
+</navigation>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android cours/project/Movies-App/app/src/main/res/layout/activity_details_of_movie.xml" value="0.18541666666666667" />
+        <entry key="..\:/android cours/project/Movies-App/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/android cours/project/Movies-App/app/src/main/res/layout/activity_user.xml" value="0.3625" />
+        <entry key="..\:/android cours/project/Movies-App/app/src/main/res/layout/profile_fragment.xml" value="0.18802083333333333" />
+        <entry key="..\:/android cours/project/Movies-App/app/src/main/res/menu/log_out.xml" value="0.18802083333333333" />
+        <entry key="..\:/android cours/project/Movies-App/app/src/main/res/menu/main_nav.xml" value="0.18541666666666667" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/drawable-v24/background_black.xml" value="0.172" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/drawable-v24/ic_round_star.xml" value="0.172" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/drawable/btn_shape.xml" value="0.175" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/drawable/curve_white_background.xml" value="0.175" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/drawable/home.xml" value="0.172" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/drawable/ic_user.xml" value="0.175" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/drawable/mail.xml" value="0.175" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/drawable/password_icon.xml" value="0.175" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/drawable/profile.xml" value="0.175" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/activity_details_movie.xml" value="0.18802083333333333" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/activity_details_of_movie.xml" value="0.22" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/activity_login.xml" value="0.259375" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/activity_login_fragment.xml" value="0.25625" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/activity_movie_details.xml" value="0.18802083333333333" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/activity_user.xml" value="0.259375" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/activity_youtube.xml" value="0.18802083333333333" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/actors_fragment.xml" value="0.18802083333333333" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/fragment_movies_details.xml" value="0.33" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/home_fragment.xml" value="0.246875" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/item_trending.xml" value="0.18802083333333333" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/login_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/mail.xml" value="0.36666666666666664" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/one_movie.xml" value="0.282472613458529" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/one_person_image.xml" value="0.5" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/profile_fragment.xml" value="1.48125" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/register_fragment.xml" value="0.25" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/layout/splash.xml" value="0.18802083333333333" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/menu/log_out.xml" value="0.25625" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/menu/main_nav.xml" value="0.246875" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+        <entry key="..\:/android cours/project/MoviesApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.xml" value="0.196" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
